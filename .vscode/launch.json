@@ -1,0 +1,11 @@
+{
+	"configurations": [
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - Experiment",
+			"request": "launch",
+			"mainClass": "cn.rectcircle.cryptographylearn.rsa.Experiment",
+			"projectName": "cryptographylearn"
+		}
+	]
+}
